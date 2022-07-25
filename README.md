@@ -1,1 +1,1 @@
-# Summer-Practice-puppeteer-js-
+# В отчёте всё написано
