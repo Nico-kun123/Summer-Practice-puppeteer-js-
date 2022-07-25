@@ -1,0 +1,309 @@
+html{ background-color: #00184b; }
+
+/* ~~~~~ Анимированный Фон ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+#particles-js{
+  background-position: 50% 50%;
+  background-size:auto;
+  height: 100%;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  z-index: -1;
+}
+/* ~~~~~ Поле заголовка сайта ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+.container{
+  background-color: rgb(0, 0, 0);
+  border-radius: 15px;
+  border: solid 1px #06D85F;
+  padding: 15px;
+  position: relative;
+  top: 0%;
+  width: 100%;    
+  z-index: 1;
+}
+.logo_field{ /* Поле для логотипа */
+  background-color: white;
+  position: sticky;
+  margin: auto;
+}
+.logo{ /* Сам логотип */
+  background-color: white;
+  position: sticky;
+  width: 120px;
+  margin: auto;
+  padding: auto;
+}
+.title_text{ /* Поле с заголовком сайта */
+  background-color: white;
+  color: rgb(0, 0, 0);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size:larger;
+  font-weight: 600;
+  outline: auto;
+  position: sticky;
+  text-align: center;
+  width:100%;
+}
+.about_button{ /* Кнопка, при нажатии на которую появляется окно (popup window) */
+  background: linear-gradient(to right,#70b403, #02cc78, #01b0c7 );
+  border-radius: 50px;
+  color: rgb(0, 0, 0);
+  font-style: normal;
+  font-family:sans-serif;
+  padding: 18px 13px 8px 12px;
+  position: sticky;
+  text-align:center;
+  text-decoration: none;
+  transition: all 0.3s ease-out;
+  outline: auto;
+  z-index: 1;
+  
+  animation: gradient 5s ease infinite;
+  background-size: 400% 400%;
+  width: auto;
+}
+.about_button:hover{ /* Что будет при наведении курсора на кнопку "about_button" */
+  color: white;
+  cursor: pointer;
+  text-shadow: 1px 1px 1px rgb(0, 0, 0);
+}
+/* ~~~~~ Реализация всплывающего окна popup1  при нажатии на кнопку "about_button" ~~~ */
+
+.overlay { /* Задний план, который появляется вместе с popup окном (изначально невидим) */
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.466);
+  transition: opacity 500ms;
+  visibility: hidden;
+  opacity: 0;
+}
+.overlay:target { /* Делаем задний план видимым, когда кнопка "about_button" нажата */
+  visibility: visible;
+  opacity: 1;
+}
+.popup { /* Само всплывающее окно */
+  margin: 100px auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 15px;
+  width: 65%;
+  position: relative;
+  top: 10%;
+  transition: all 2s ease-in-out;
+  z-index: auto;
+}
+.popup h2 { /* Заголовок всплывающего окна */
+  margin-top: 0;
+  color: #333;
+  font-family: Tahoma, Arial, sans-serif;
+}
+.popup .close { /* Значок крестика ("x") в правом верхнем углу всплювающего окна */
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  transition: all 200ms;
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  font-size:xx-large;
+  color: #333;
+}
+.popup .close:hover { /* Крестик "x" будет зелёным при наведении на него курсора */
+  color: #06D85F;
+}
+.popup .content { /* Текст всплювающего окна */
+  max-height: 30%;
+  overflow: auto;
+}
+/* ~~~~~ Поле с Содержанием Страницы ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+.menu{
+  border: 2px #00ff0d;
+  background-color: #f8f9fa;
+  border-radius: 15px;
+  border-style:double;
+  z-index: auto;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  height: 100%;
+  width: 100%;
+}
+.menu_title{
+  font-size: larger;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border-bottom-style:inherit;
+  margin-right: 10px;
+  margin-left: 10px;
+  border-bottom-width: 2px;
+  z-index: auto;
+}
+.menu_field{
+  margin-top: 20px;
+  justify-content:center;
+  margin-bottom: 20px;
+  margin-left: 18px;
+  margin-right: 18px;
+  display: flex;
+  align-items: flex-start;
+  height: 100%;
+  z-index: auto;
+}
+.start{ /* Стиль кнопки "Begin" */
+  width: 130px;
+  margin-left: 10px;
+  margin-bottom: 5px;
+  margin-top: -12px;
+  height: 30px;
+  font-weight: 700;
+  background-color: #01ff95;
+}
+.start:hover{
+  background-color: #02cc78;
+  font-weight:bolder;
+}
+.start:disabled{
+  background-color: white;
+  outline-style: dashed;
+  outline-width: 2px;
+  outline-color: black;
+}
+.button_field{  /* Поле, в котором находится кнопка "Begin" */
+  background-color: rgba(255, 255, 255, 0.651);
+  padding: 7px;
+  margin-left: 20px;
+  border-radius: 15px;
+  width: 100%;
+}
+/* ~~~~~ Поля в которых будет выводится нужная информация ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+.data_window{
+  padding: 7px;
+  margin-left: 80px;
+  border: 2px #00ff0d;
+  background-color: #f8f9fa;
+  border-radius: 15px;
+  border-style:double;
+  font-size:large;
+  min-width: 300px;
+  height: auto;
+}
+#Эмали, #Краски_для_внутренних_работ, #Краски_для_наружных_работ, #Покрытия_для_дерева, #Подготовка_поверхности_к_покраске_и_штукатурке {
+  margin: auto;
+  margin-bottom: 5px;
+}
+.data_header{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border-bottom-style:inherit;
+  border-bottom-width: 2px;
+  font-size: larger;
+}
+.data_header :target{
+  color: lawngreen;
+  text-decoration: underline;
+  animation: selected 2s step-end both;
+  scroll-behavior: auto;
+}
+/* ~~~~~ Эти классы будут добавлены после нажатия на кнопку "Показать" ~~~~~~~~~~~~ */
+.data_text_1, .data_text_2, .data_text_3, .data_text_4, .data_text_5{
+  border-top-style: dashed;
+  background-color: rgb(207, 207, 207);
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  height: auto;
+  margin: auto;
+  width: 100%;
+  height: 100%;
+  column-gap: 3px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  grid-template-rows: auto;
+  /* column-gap: 9px;
+  row-gap: 9px; */
+}
+.product_field{
+  border-color: #00ff0d;
+  border-width: 7px;
+  background-color: white;
+  margin: 10px;
+  border-style:double;
+  border-radius: 8px;
+  width: auto;
+  height: auto;
+}
+.product_img{
+  width: 100%;
+  image-rendering: auto;
+}
+.product_name{
+  text-decoration: none;
+  text-decoration-line: none;
+  font-size: large;
+  margin-bottom: 0%;
+}
+.product_name a{ text-decoration:none; color: #00184b;}
+.product_price { background-color: #02cc78; margin-bottom:-20px; }
+
+/* ~~~~~ Кнопка, которая прокручивает страницу наверх ~~~~~~~~~~~~~~~~ */
+#back2Top {
+  width: 50px;
+  height: 50px;
+  line-height: 52px;
+  overflow: hidden;
+  z-index: auto;
+  display: none;
+  border-radius: 15px;
+  cursor: pointer;
+  -moz-transform: rotate(270deg);
+  -webkit-transform: rotate(270deg);
+  -o-transform: rotate(270deg);
+  -ms-transform: rotate(270deg);
+  transform: rotate(270deg);
+  position: fixed;
+  bottom: 50px;
+  left: 20px;
+  background-color: rgb(35, 177, 0);
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-size:x-large;
+  text-decoration: none;
+  margin: auto;
+}
+#back2Top:hover {
+  background-color: rgb(51, 255, 0);
+  color: rgb(0, 0, 0);
+  bottom: 52px;
+}
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+@media screen and (max-width: 1300px){
+  .popup{ width: 90%; }
+}
+@media screen and (min-width: 550px){
+  .data_text_1, .data_text_2, .data_text_3, .data_text_4, .data_text_5{ grid-template-columns: repeat(2, 1fr); }
+  .menu{ width: 80%;}
+}
+@media screen and (min-width: 690px){
+  .data_text_1, .data_text_2, .data_text_3, .data_text_4, .data_text_5{ grid-template-columns: repeat(3, 1fr); }
+  .menu{ width: 70%;}
+}
+@media screen and (min-width: 900px){
+  .data_text_1, .data_text_2, .data_text_3, .data_text_4, .data_text_5{ grid-template-columns: repeat(4, 1fr); }
+  .menu{ width: 60%;}
+}
+@media screen and (min-width: 1300px){
+  .data_text_1, .data_text_2, .data_text_3, .data_text_4, .data_text_5{ grid-template-columns: repeat(5, 1fr); }
+  .menu{ width: 50%;}
+}
+@media screen and (min-width: 1700px){
+  .data_text_1, .data_text_2, .data_text_3, .data_text_4, .data_text_5{ grid-template-columns: repeat(6, 1fr); }
+  .menu{ width: 700px;}
+}
+@keyframes selected{
+  0%, 40%, 80%    { color: lawngreen; text-decoration: underline; }
+  20%, 60%, 100%  { color: rgb(0, 0, 0); text-decoration:none; }
+}
+@keyframes gradient{
+  0%, 100% { background-position: 0% 50%; }
+  50%      { background-position: 100% 50%; }
+}

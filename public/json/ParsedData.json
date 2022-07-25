@@ -1,0 +1,912 @@
+{
+	"Emali": [
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/18449228.jpg",
+			"url": "https://leroymerlin.ru/product/emal-pf-115-prostokraska-cvet-seryy-25-kg-18449228/",
+			"name": "Эмаль ПФ-115 Простокраска цвет серый 2.5 кг",
+			"price": "495"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82198243.jpg",
+			"url": "https://leroymerlin.ru/product/emal-yaroslavskie-kraski-pf-115-glyancevaya-cvet-belyy-22-kg-82198243/",
+			"name": "Эмаль Ярославские краски ПФ-115 глянцевая цвет белый 2.2 кг",
+			"price": "615"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/13656148.jpg",
+			"url": "https://leroymerlin.ru/product/kraska-maslyanaya-lakra-ma-15-cvet-belyy-19-kg-13656148/",
+			"name": "Краска масляная Лакра МА-15 цвет белый 1.9 кг",
+			"price": "332"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/18522106.jpg",
+			"url": "https://leroymerlin.ru/product/emal-pf-115-prostokraska-cvet-krasnyy-5-kg-18522106/",
+			"name": "Эмаль ПФ-115 Простокраска цвет красный 5 кг",
+			"price": "886"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/83237418.jpg",
+			"url": "https://leroymerlin.ru/product/emal-aerozolnaya-dekorativnaya-matovaya-cvet-chernyy-520-ml-83237418/",
+			"name": "Эмаль аэрозольная декоративная матовая цвет черный 520 мл",
+			"price": "205"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/18449261.jpg",
+			"url": "https://leroymerlin.ru/product/emal-korichnevaya-pf-115-prostokraska-25-kg-18449261/",
+			"name": "Эмаль коричневая ПФ-115 Простокраска 2.5 кг",
+			"price": "495"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/83237471.jpg",
+			"url": "https://leroymerlin.ru/product/grunt-emal-aerozolnaya-po-rzhavchine-luxens-glyancevaya-cvet-belyy-520-ml-83237471/",
+			"name": "Грунт-эмаль аэрозольная по ржавчине Luxens глянцевая цвет белый 520 мл",
+			"price": "258"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/83428839.jpg",
+			"url": "https://leroymerlin.ru/product/emal-luxens-glyancevaya-cvet-belyy-09-kg-83428839/",
+			"name": "Эмаль Luxens глянцевая цвет белый 0.9 кг",
+			"price": "595"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82539614.jpg",
+			"url": "https://leroymerlin.ru/product/emal-dlya-okon-luxens-cvet-belyy-09-kg-82539614/",
+			"name": "Эмаль для окон Luxens цвет белый 0.9 кг",
+			"price": "517"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/89094579_03.jpg",
+			"url": "https://leroymerlin.ru/product/kraska-dlya-mangalov-vixen-520-ml-cvet-chernyy-89094579/",
+			"name": "Краска для мангалов Vixen 520 мл цвет черный",
+			"price": "380"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/85196259.jpg",
+			"url": "https://leroymerlin.ru/product/emal-po-rzhavchine-3-v-1-luxens-molotkovaya-cvet-chernyy-09-kg-85196259/",
+			"name": "Эмаль по ржавчине 3 в 1 Luxens молотковая цвет черный 0.9 кг",
+			"price": "530"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/14542425.jpg",
+			"url": "https://leroymerlin.ru/product/emal-grunt-po-rzhavchine-3v1-cvet-korichnevyy-09-kg-14542425/",
+			"name": "Эмаль-грунт по ржавчине 3в1 цвет коричневый 0.9 кг",
+			"price": "283"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/18534393.jpg",
+			"url": "https://leroymerlin.ru/product/emal-po-rzhavchine-3v1-cvet-seryy-24-kg-18534393/",
+			"name": "Эмаль по ржавчине 3в1 цвет серый 2.4 кг",
+			"price": "764"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/18522085.jpg",
+			"url": "https://leroymerlin.ru/product/emal-pf-115-prostokraska-cvet-chernyy-5-kg-18522085/",
+			"name": "Эмаль ПФ-115 Простокраска цвет чёрный 5 кг",
+			"price": "886"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/14542388.jpg",
+			"url": "https://leroymerlin.ru/product/emal-grunt-po-rzhavchine-3v1-cvet-belyy-09-kg-14542388/",
+			"name": "Эмаль-грунт по ржавчине 3в1 цвет белый 0.9 кг",
+			"price": "283"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82198259.jpg",
+			"url": "https://leroymerlin.ru/product/emal-yaroslavskie-kraski-pf-115-glyancevaya-cvet-shokoladno-korichnevyy-22-kg-82198259/",
+			"name": "Эмаль Ярославские краски ПФ-115 глянцевая цвет шоколадно-коричневый 2.2 кг",
+			"price": "615"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/83237420.jpg",
+			"url": "https://leroymerlin.ru/product/emal-aerozolnaya-dekorativnaya-glyancevaya-cvet-chernyy-520-ml-83237420/",
+			"name": "Эмаль аэрозольная декоративная глянцевая цвет черный 520 мл",
+			"price": "205"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/18534406.jpg",
+			"url": "https://leroymerlin.ru/product/emal-po-rzhavchine-3v1-cvet-chernyy-24-kg-18534406/",
+			"name": "Эмаль по ржавчине 3в1 цвет чёрный 2.4 кг",
+			"price": "764"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/14713714.jpg",
+			"url": "https://leroymerlin.ru/product/kraska-bt-177-vybor-mastera-cvet-serebristyy-05-l-14713714/",
+			"name": "Краска БТ-177 Выбор Мастера цвет серебристый 0.5 л",
+			"price": "218"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82534992.jpg",
+			"url": "https://leroymerlin.ru/product/emal-dlya-radiatorov-luxens-cvet-belyy-05-kg-82534992/",
+			"name": "Эмаль для радиаторов Luxens цвет белый 0.5 кг",
+			"price": "258"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/12036756.jpg",
+			"url": "https://leroymerlin.ru/product/emal-akrilovaya-polumatovaya-belaya-eko-lyuks-113-09-l-12036756/",
+			"name": "Эмаль акриловая полуматовая белая Эко-Люкс 113 0.9 л",
+			"price": "608"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/88488543.jpg",
+			"url": "https://leroymerlin.ru/product/emal-po-rzhavchine-3-v-1-luxens-cvet-chernyy-09-kg-88488543/",
+			"name": "Эмаль по ржавчине 3 в 1 Luxens цвет черный 0.9 кг",
+			"price": "436"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/85196261.jpg",
+			"url": "https://leroymerlin.ru/product/emal-po-rzhavchine-3-v-1-luxens-molotkovaya-cvet-seryy-24-kg-85196261/",
+			"name": "Эмаль по ржавчине 3 в 1 Luxens молотковая цвет серый 2.4 кг",
+			"price": "1335"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82109869.jpg",
+			"url": "https://leroymerlin.ru/product/emal-luxens-universalnaya-cvet-belyy-25-kg-82109869/",
+			"name": "Эмаль Luxens универсальная цвет белый 2.5 кг",
+			"price": "1047"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/18824024.jpg",
+			"url": "https://leroymerlin.ru/product/lak-yahtnyy-vixen-glyancevyy-520-ml-18824024/",
+			"name": "Лак яхтный Vixen глянцевый 520 мл",
+			"price": "221"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/18559081.jpg",
+			"url": "https://leroymerlin.ru/product/emal-grunt-po-rzhavchine-3v1-cvet-seryy-5-kg-18559081/",
+			"name": "Эмаль-грунт по ржавчине 3в1 цвет серый 5 кг",
+			"price": "1281"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/84434188.jpg",
+			"url": "https://leroymerlin.ru/product/grunt-emal-po-rzhavchine-3-v-1-empils-pl-cvet-chernyy-5-kg-84434188/",
+			"name": "Грунт-эмаль по ржавчине 3 в 1 Empils PL цвет черный 5 кг",
+			"price": "1290"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/12174788.jpg",
+			"url": "https://leroymerlin.ru/product/emal-akrilovaya-dlya-plastika-belaya-r-180-baza-a-09-l-12174788/",
+			"name": "Эмаль акриловая для пластика белая Р-180 база А 0.9 л",
+			"price": "626"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82636345.jpg",
+			"url": "https://leroymerlin.ru/product/emal-termostoykaya-luxens-cvet-serebristyy-04-kg-82636345/",
+			"name": "Эмаль термостойкая Luxens цвет серебристый 0.4 кг",
+			"price": "313"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/18449210.jpg",
+			"url": "https://leroymerlin.ru/product/emal-pf-115-prostokraska-cvet-zheltyy-25-kg-18449210/",
+			"name": "Эмаль ПФ-115 Простокраска цвет жёлтый 2.5 кг",
+			"price": "495"
+		}
+	],
+	"Paint_for_inside_work": [
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82540517.jpg",
+			"url": "https://leroymerlin.ru/product/kolorant-luxens-01-l-cvet-chernyy-82540517/",
+			"name": "Колорант Luxens 0.1 л цвет черный",
+			"price": "43"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82276531.jpg",
+			"url": "https://leroymerlin.ru/product/kraska-dlya-potolkov-cvet-belyy-5-kg-82276531/",
+			"name": "Краска для потолков цвет белый 5 кг",
+			"price": "218"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/11601215.jpg",
+			"url": "https://leroymerlin.ru/product/kraska-tikkurila-euro-power-7-cvet-belyy-9-l-baza-a-11601215/",
+			"name": "Краска Tikkurila Euro Power-7 цвет белый 9 л база А",
+			"price": "6348"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/14043546.jpg",
+			"url": "https://leroymerlin.ru/product/lak-pf-231-parketnyy-45-l-14043546/",
+			"name": "Лак ПФ-231 паркетный 4.5 л",
+			"price": "1218"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82135561.jpg",
+			"url": "https://leroymerlin.ru/product/kraska-dlya-sten-parade-diy-intensive-baza-a-9-l-82135561/",
+			"name": "Краска для стен Parade DIY Intensive база A 9 л",
+			"price": "2258"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82276532.jpg",
+			"url": "https://leroymerlin.ru/product/kraska-dlya-potolkov-cvet-belyy-10-kg-82276532/",
+			"name": "Краска для потолков цвет белый 10 кг",
+			"price": "305"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/11601207.jpg",
+			"url": "https://leroymerlin.ru/product/kraska-tikkurila-euro-power-7-baza-a-27-l-11601207/",
+			"name": "Краска Tikkurila Euro Power-7 база А 2.7 л",
+			"price": "2248"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82141655.jpg",
+			"url": "https://leroymerlin.ru/product/kraska-profilux-vd-dlya-spalni-82141655/",
+			"name": "Краска Profilux ВД для спальни, 11кг",
+			"price": "872"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/91261280.jpg",
+			"url": "https://leroymerlin.ru/product/kraska-dlya-sten-i-potolkov-krafor-26962-superstoykaya-belaya-3-kg-91261280/",
+			"name": "Краска для стен и потолков KRAFOR 26962 суперстойкая белая 3 кг",
+			"price": "546"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/11601194.jpg",
+			"url": "https://leroymerlin.ru/product/kraska-tikkurila-euro-power-7-cvet-belyy-baza-a-09-l-11601194/",
+			"name": "Краска Tikkurila Euro Power-7 цвет белый база А 0.9 л",
+			"price": "818"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82025672.jpg",
+			"url": "https://leroymerlin.ru/product/kraska-dlya-sten-i-potolkov-luxens-baza-a-10-l-82025672/",
+			"name": "Краска для стен и потолков Luxens база A 10 л",
+			"price": "2743"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82746917.jpg",
+			"url": "https://leroymerlin.ru/product/kraska-dlya-sten-i-potolkov-dulux-classic-colour-bw-cvet-belyy-9-l-82746917/",
+			"name": "Краска для стен и потолков Dulux Classic Colour BW цвет белый 9 л",
+			"price": "5782"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82181086.jpg",
+			"url": "https://leroymerlin.ru/product/emal-dlya-pola-prostokraska-atlasnaya-cvet-svetlo-seryy-5-kg-82181086/",
+			"name": "Эмаль для пола Простокраска атласная цвет светло-серый 5 кг",
+			"price": "890"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82135581.jpg",
+			"url": "https://leroymerlin.ru/product/kraska-dlya-sten-parade-diy-2-relax-baza-a-9-l-82135581/",
+			"name": "Краска для стен Parade DIY 2 Relax база A 9 л",
+			"price": "2791"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/15055311.jpg",
+			"url": "https://leroymerlin.ru/product/kraska-vodno-dispersionnaya-mattlatex-mix-10-l-baza-1-15055311/",
+			"name": "Краска водно-дисперсионная Mattlatex Mix 10 л база 1",
+			"price": "2134"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82276530.jpg",
+			"url": "https://leroymerlin.ru/product/kraska-dlya-potolkov-cvet-belyy-25-kg-82276530/",
+			"name": "Краска для потолков цвет белый 2.5 кг",
+			"price": "138"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82419181.jpg",
+			"url": "https://leroymerlin.ru/product/pokrytie-dekorativnoe-profilux-14-kg-cvet-belyy-82419181/",
+			"name": "Покрытие декоративное Profilux 14 кг цвет белый",
+			"price": "1542"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/11627394.jpg",
+			"url": "https://leroymerlin.ru/product/kraska-dlya-potolkov-dulux-oslepitelno-belaya-25-l-11627394/",
+			"name": "Краска для потолков Dulux Ослепительно Белая 2.5 л",
+			"price": "1755"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/11601178.jpg",
+			"url": "https://leroymerlin.ru/product/kraska-tikkurila-euro-smart-2-cvet-belyy-27-l-11601178/",
+			"name": "Краска Tikkurila Euro Smart-2 цвет белый 2.7 л",
+			"price": "1290"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82181084.jpg",
+			"url": "https://leroymerlin.ru/product/emal-dlya-pola-prostokraska-atlasnaya-cvet-zolotisto-korichnevyy-5-kg-82181084/",
+			"name": "Эмаль для пола Простокраска атласная цвет золотисто-коричневый 5 кг",
+			"price": "890"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82540509.jpg",
+			"url": "https://leroymerlin.ru/product/kolorant-luxens-01-l-cvet-siniy-82540509/",
+			"name": "Колорант Luxens 0.1 л цвет синий",
+			"price": "43"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/81963490.jpg",
+			"url": "https://leroymerlin.ru/product/kraska-dlya-sten-kuhni-i-vannoy-luxens-baza-a-5-l-81963490/",
+			"name": "Краска для стен кухни и ванной Luxens база A 5 л",
+			"price": "1726"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82746920.jpg",
+			"url": "https://leroymerlin.ru/product/kraska-dlya-sten-i-potolkov-dulux-classic-colour-bw-cvet-belyy-1-l-82746920/",
+			"name": "Краска для стен и потолков Dulux Classic Colour BW цвет белый 1 л",
+			"price": "682"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82540513.jpg",
+			"url": "https://leroymerlin.ru/product/kolorant-luxens-01-l-cvet-sirenevyy-82540513/",
+			"name": "Колорант Luxens 0.1 л цвет сиреневый",
+			"price": "43"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82540445.jpg",
+			"url": "https://leroymerlin.ru/product/kolorant-luxens-01-l-cvet-bezhevyy-82540445/",
+			"name": "Колорант Luxens 0.1 л цвет бежевый",
+			"price": "43"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/11627343.jpg",
+			"url": "https://leroymerlin.ru/product/kraska-dlya-potolkov-dulux-oslepitelno-belaya-5-l-11627343/",
+			"name": "Краска для потолков Dulux Ослепительно Белая 5 л",
+			"price": "3098"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82540457.jpg",
+			"url": "https://leroymerlin.ru/product/kolorant-luxens-01-l-cvet-zheltyy-82540457/",
+			"name": "Колорант Luxens 0.1 л цвет желтый",
+			"price": "43"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/11467386.jpg",
+			"url": "https://leroymerlin.ru/product/kraska-dlya-potolkov-dulux-oslepitelno-belaya-10-l-11467386/",
+			"name": "Краска для потолков Dulux Ослепительно Белая 10 л",
+			"price": "5100"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82171054.jpg",
+			"url": "https://leroymerlin.ru/product/kraska-dlya-potolkov-vodno-dispersionnaya-dulux-oslepitelno-belaya-1-l-82171054/",
+			"name": "Краска для потолков водно-дисперсионная Dulux Ослепительно Белая 1 л",
+			"price": "690"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/18521971.jpg",
+			"url": "https://leroymerlin.ru/product/emal-dlya-pola-prostokraska-cvet-zolotisto-korichnevyy-09-kg-18521971/",
+			"name": "Эмаль для пола Простокраска цвет золотисто-коричневый 0.9 кг",
+			"price": "118"
+		}
+	],
+	"Paint_for_outside_work": [
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/11628338.jpg",
+			"url": "https://leroymerlin.ru/product/shtukaturka-dekorativnaya-dufa-modellierputz-18-kg-cvet-belyy-11628338/",
+			"name": "Штукатурка декоративная Dufa Modellierputz 18 кг цвет белый",
+			"price": "2528"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/83563969.jpg",
+			"url": "https://leroymerlin.ru/product/propitka-yaroslavskie-kraski-gidrofobizator-silikonovaya-83563969/",
+			"name": "Пропитка Ярославские Краски Гидрофобизатор силиконовая, 5 л",
+			"price": "438"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82336780.jpg",
+			"url": "https://leroymerlin.ru/product/kraska-fasadnaya-jobi-treshchinostoykaya-rezinovaya-5-l-cvet-belyy-matovyy-82336780/",
+			"name": "Краска фасадная Jobi трещиностойкая резиновая 5 л цвет белый матовый",
+			"price": "2215"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82141656.jpg",
+			"url": "https://leroymerlin.ru/product/kraska-dlya-fasadov-siloxane-facade-baza-1-09-l-82141656/",
+			"name": "Краска для фасадов Siloxane Facade база 1 0.9 л",
+			"price": "660"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82106314.jpg",
+			"url": "https://leroymerlin.ru/product/shtukaturka-mramornaya-bayramix-kashmir-gold-k-15-kg-82106314/",
+			"name": "Штукатурка мраморная Bayramix Kashmir Gold-K 15 кг",
+			"price": "1980"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82174284.jpg",
+			"url": "https://leroymerlin.ru/product/kraska-fasadnaya-luxens-17-l-cvet-belyy-82174284/",
+			"name": "Краска фасадная Luxens 17 л цвет белый",
+			"price": "3888"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82891615.jpg",
+			"url": "https://leroymerlin.ru/product/kraska-dlya-kolerovki-fasadnaya-bayramix-silicon-profi-prozrachnaya-baza-s-27-l-82891615/",
+			"name": "Краска для колеровки фасадная Bayramix Silicon Profi прозрачная база С 2.7 л",
+			"price": "1496"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/84388380.jpg",
+			"url": "https://leroymerlin.ru/product/kraska-fasadnaya-adamant-5-l-baza-c-84388380/",
+			"name": "Краска фасадная Adamant 5 л база C",
+			"price": "1416"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/89094586.jpg",
+			"url": "https://leroymerlin.ru/product/kraska-neomid-home-series-rezinovaya-universalnaya-14-kg-cvet-belyy-89094586/",
+			"name": "Краска Neomid Home Series резиновая универсальная 14 кг цвет белый",
+			"price": "6852"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/17120463.jpg",
+			"url": "https://leroymerlin.ru/product/kraska-dlya-derevyannyh-fasadov-v33-baza-a-25-l-17120463/",
+			"name": "Краска для деревянных фасадов V33 база А 2.5 л",
+			"price": "2630"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/15870501.jpg",
+			"url": "https://leroymerlin.ru/product/fasadnaya-kraska-dulux-gladkaya-bw-25-l-15870501/",
+			"name": "Фасадная краска Dulux Гладкая BW 2.5 л",
+			"price": "2173"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/89094584.jpg",
+			"url": "https://leroymerlin.ru/product/kraska-neomid-home-series-rezinovaya-universalnaya-7-kg-baza-s-89094584/",
+			"name": "Краска Neomid Home Series резиновая универсальная 7 кг база С",
+			"price": "3464"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82891052.jpg",
+			"url": "https://leroymerlin.ru/product/kraska-dlya-sten-i-potolkov-maitre-deco-satin-baza-a-9-l-82891052/",
+			"name": "Краска для стен и потолков Maitre Deco «Satin» база А 9 л",
+			"price": "7450"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/89094587.jpg",
+			"url": "https://leroymerlin.ru/product/kraska-neomid-home-series-rezinovaya-universalnaya-24-kg-cvet-belyy-89094587/",
+			"name": "Краска Neomid Home Series резиновая универсальная 2.4 кг цвет белый",
+			"price": "1324"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/17115381.jpg",
+			"url": "https://leroymerlin.ru/product/fasadnaya-kraska-dulux-classic-colour-bw-25-l-17115381/",
+			"name": "Фасадная краска Dulux Classic Colour BW 2.5 л",
+			"price": "1708"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/17117344.jpg",
+			"url": "https://leroymerlin.ru/product/kraska-dlya-fasadov-dufa-siloxane-baza1-25-l-17117344/",
+			"name": "Краска для фасадов Dufa Siloxane база1 2.5 л",
+			"price": "1665"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82879219.jpg",
+			"url": "https://leroymerlin.ru/product/kraska-fasadnaya-bayramix-silicon-profi-baza-a-27-l-82879219/",
+			"name": "Краска фасадная Bayramix Silicon Profi база А 2.7 л",
+			"price": "1496"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/84579462.jpg",
+			"url": "https://leroymerlin.ru/product/pokrytie-dekorativnoe-parade-abella-bazovoe-s-perlamutrovym-biserom-09-l-84579462/",
+			"name": "Покрытие декоративное Parade Abella базовое с перламутровым бисером 0.9 л",
+			"price": "1786"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82572558.jpg",
+			"url": "https://leroymerlin.ru/product/kraska-fasadnaya-profilux-cvet-matovyy-belyy-82572558/",
+			"name": "Краска фасадная Profilux цвет матовый белый, 25 л",
+			"price": "4023"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/17115390.jpg",
+			"url": "https://leroymerlin.ru/product/fasadnaya-kraska-dulux-classic-colour-bw-5-l-17115390/",
+			"name": "Фасадная краска Dulux Classic Colour BW 5 л",
+			"price": "3091"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82744343.jpg",
+			"url": "https://leroymerlin.ru/product/propitka-po-kamnyu-neomid-n2o-stop-1-l-82744343/",
+			"name": "Пропитка по камню Neomid Н2О-стоп 1 л",
+			"price": "526"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/16774369.jpg",
+			"url": "https://leroymerlin.ru/product/shtukaturka-dekorativnaya-parade-ice-elbrus-15-kg-cvet-belyy-16774369/",
+			"name": "Штукатурка декоративная Parade Ice Elbrus 15 кг цвет белый",
+			"price": "3060"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/84535837.jpg",
+			"url": "https://leroymerlin.ru/product/kraska-dekorativnaya-luxens-fakturnaya-matovaya-cvet-belyy-14-kg-84535837/",
+			"name": "Краска декоративная Luxens фактурная матовая цвет белый 14 кг",
+			"price": "1501"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/84579459.jpg",
+			"url": "https://leroymerlin.ru/product/shtukaturka-dekorativnaya-parade-renessans-16-kg-cvet-belyy-84579459/",
+			"name": "Штукатурка декоративная Parade Renessans 16 кг цвет белый",
+			"price": "4461"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82042743.jpg",
+			"url": "https://leroymerlin.ru/product/kraska-dlya-plit-osb-neomid-14-kg-cvet-belyy-82042743/",
+			"name": "Краска для плит OSB Neomid 14 кг цвет белый",
+			"price": "3317"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/84535839.jpg",
+			"url": "https://leroymerlin.ru/product/shtukaturka-dekorativnaya-luxens-s-effektom-koroeda-cvet-belyy-14-kg-84535839/",
+			"name": "Штукатурка декоративная Luxens с эффектом короеда цвет белый 14 кг",
+			"price": "1910"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/17137311.jpg",
+			"url": "https://leroymerlin.ru/product/kraska-dlya-fasadov-marshall-maestro-bw-25-l-17137311/",
+			"name": "Краска для фасадов Marshall Maestro BW 2.5 л",
+			"price": "1193"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82116723.jpg",
+			"url": "https://leroymerlin.ru/product/kraska-fasadnaya-tikkurila-prof-facade-aqua-9-l-82116723/",
+			"name": "Краска фасадная Tikkurila Prof Facade Aqua 9 л",
+			"price": "6094"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/17137644.jpg",
+			"url": "https://leroymerlin.ru/product/kraska-dlya-fasadov-marshall-maestro-bw-45-l-17137644/",
+			"name": "Краска для фасадов Marshall Maestro BW 4.5 л",
+			"price": "2086"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82928852.jpg",
+			"url": "https://leroymerlin.ru/product/kraska-fasadnaya-wow-now-matovaya-1-l-baza-a-82928852/",
+			"name": "Краска фасадная Wow Now матовая 1 л база A",
+			"price": "620"
+		}
+	],
+	"Wood_paint": [
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82336806.jpg",
+			"url": "https://leroymerlin.ru/product/maslo-dlya-sadovoy-mebeli-dub-05-l-82336806/",
+			"name": "Масло для садовой мебели дуб 0.5 л",
+			"price": "487"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/84870476.jpg",
+			"url": "https://leroymerlin.ru/product/antiseptik-luxens-polumatovyy-mahagon-25-l-84870476/",
+			"name": "Антисептик Luxens полуматовый махагон 2.5 л",
+			"price": "1135"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/13804980.jpg",
+			"url": "https://leroymerlin.ru/product/propitka-dlya-dereva-vodnaya-belaya-dufatex-aqua-5-l-13804980/",
+			"name": "Пропитка для дерева водная белая Dufatex aqua 5 л",
+			"price": "2695"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/12157195.jpg",
+			"url": "https://leroymerlin.ru/product/zashchitnyy-sostav-dlya-sauny-akrilovyy-tikkurila-supi-saunasuoja-09-l-12157195/",
+			"name": "Защитный состав для сауны акриловый Tikkurila Supi Saunasuoja 0.9 л",
+			"price": "947"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/84300504.jpg",
+			"url": "https://leroymerlin.ru/product/morilka-dlya-dereva-luxens-cvet-mahagon-1-kg-84300504/",
+			"name": "Морилка для дерева Luxens цвет махагон 1 кг",
+			"price": "198"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82734968.jpg",
+			"url": "https://leroymerlin.ru/product/antiseptik-neomid-home-series-nevymyvaemyy-5-kg-82734968/",
+			"name": "Антисептик Neomid Home Series невымываемый 5 кг",
+			"price": "5177"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/12251982.jpg",
+			"url": "https://leroymerlin.ru/product/antiseptik-tikkurila-vinha-09-l-12251982/",
+			"name": "Антисептик Tikkurila Vinha 0.9 л",
+			"price": "1578"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82675576.jpg",
+			"url": "https://leroymerlin.ru/product/shtrih-mebelnyy-molecules-cvet-venge-20-ml-82675576/",
+			"name": "Штрих мебельный Molecules цвет венге 20 мл",
+			"price": "266"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82675563.jpg",
+			"url": "https://leroymerlin.ru/product/karandash-dlya-restavracii-treshchin-molecules-cvet-belyy-55-g-82675563/",
+			"name": "Карандаш для реставрации трещин Molecules цвет белый 5.5 г",
+			"price": "227"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/12251990.jpg",
+			"url": "https://leroymerlin.ru/product/antiseptik-tikkurila-vinha-27-l-12251990/",
+			"name": "Антисептик Tikkurila Vinha 2.7 л, цвет белый",
+			"price": "4396"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82336791.jpg",
+			"url": "https://leroymerlin.ru/product/maslo-dlya-pola-cvet-mahagon-1-l-82336791/",
+			"name": "Масло для пола цвет махагон 1 л",
+			"price": "822"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/83306803.jpg",
+			"url": "https://leroymerlin.ru/product/propitka-dlya-drevesiny-yaroslavskie-kraski-eko-lazur-s-dekorativnym-effektom-i-biozashchitoy-cvet-dub-09-l-83306803/",
+			"name": "Пропитка для древесины Ярославские краски Эко-лазурь с декоративным эффектом и биозащитой цвет дуб 0.9 л",
+			"price": "267"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/83306821.jpg",
+			"url": "https://leroymerlin.ru/product/propitka-dlya-drevesiny-yaroslavskie-kraski-eko-lazur-s-dekorativnym-effektom-i-biozashchitoy-cvet-sosna-09-l-83306821/",
+			"name": "Пропитка для древесины Ярославские краски Эко-лазурь с декоративным эффектом и биозащитой цвет сосна 0.9 л",
+			"price": "267"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82277850.jpg",
+			"url": "https://leroymerlin.ru/product/ognebiozashchita-jobi-ii-gruppa-10-kg-82277850/",
+			"name": "Огнебиозащита Jobi II группа 10 кг",
+			"price": "685"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/84584289.jpg",
+			"url": "https://leroymerlin.ru/product/antiseptik-akvateks-baza-a-polumatovyy-belyy-27-l-84584289/",
+			"name": "Антисептик Akvateks база A полуматовый белый 2.7 л",
+			"price": "2104"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82241365.jpg",
+			"url": "https://leroymerlin.ru/product/propitka-pinotex-standard-cvet-sosna-27-l-82241365/",
+			"name": "Пропитка Pinotex Standard цвет сосна 2.7 л",
+			"price": "1953"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/84870479.jpg",
+			"url": "https://leroymerlin.ru/product/antiseptik-luxens-polumatovyy-dub-25-l-84870479/",
+			"name": "Антисептик Luxens полуматовый дуб 2.5 л",
+			"price": "1135"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/12352249.jpg",
+			"url": "https://leroymerlin.ru/product/propitka-dlya-dereva-vodnaya-dufatex-aqua-075-l-cvet-belyy-12352249/",
+			"name": "Пропитка для дерева водная Dufatex aqua 0.75 л цвет белый",
+			"price": "457"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/14043722.jpg",
+			"url": "https://leroymerlin.ru/product/antizhuk-koncentrat-12-neomid-1-l-14043722/",
+			"name": "Антижук концентрат 1:2 Neomid 1 л",
+			"price": "512"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/18739372.jpg",
+			"url": "https://leroymerlin.ru/product/antiseptik-pinotex-standard-cvet-tikovoe-derevo-9-l-18739372/",
+			"name": "Антисептик Pinotex Standard цвет тиковое дерево 9 л",
+			"price": "5873"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/83306810.jpg",
+			"url": "https://leroymerlin.ru/product/propitka-dlya-drevesiny-yaroslavskie-kraski-eko-lazur-s-dekorativnym-effektom-i-biozashchitoy-cvet-mahagon-27-l-83306810/",
+			"name": "Пропитка для древесины Ярославские краски Эко-лазурь с декоративным эффектом и биозащитой цвет махагон 2.7 л",
+			"price": "658"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82603246.jpg",
+			"url": "https://leroymerlin.ru/product/antiseptik-akvateks-poluglyancevyy-prozrachnyy-9-l-82603246/",
+			"name": "Антисептик Akvateks полуглянцевый прозрачный 9 л",
+			"price": "4227"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82575522.jpg",
+			"url": "https://leroymerlin.ru/product/lak-dlya-mebeli-luxens-alkidnyy-cvet-prozrachnyy-glyancevyy-09-l-82575522/",
+			"name": "Лак для мебели Luxens алкидный цвет прозрачный глянцевый 0.9 л",
+			"price": "465"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/84870466.jpg",
+			"url": "https://leroymerlin.ru/product/antiseptik-luxens-polumatovyy-sosna-1-l-84870466/",
+			"name": "Антисептик Luxens полуматовый сосна 1 л",
+			"price": "512"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/84300502.jpg",
+			"url": "https://leroymerlin.ru/product/morilka-dlya-dereva-luxens-cvet-dub-1-kg-84300502/",
+			"name": "Морилка для дерева Luxens цвет дуб 1 кг",
+			"price": "198"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/83306807.jpg",
+			"url": "https://leroymerlin.ru/product/propitka-dlya-drevesiny-yaroslavskie-kraski-eko-lazur-s-dekorativnym-effektom-i-biozashchitoy-cvet-dub-9-l-83306807/",
+			"name": "Пропитка для древесины Ярославские краски Эко-лазурь с декоративным эффектом и биозащитой цвет дуб 9 л",
+			"price": "1817"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82852313.jpg",
+			"url": "https://leroymerlin.ru/product/morilka-dlya-dereva-good-master-05-l-cvet-ebenovoe-derevo-82852313/",
+			"name": "Морилка для дерева Good Master 0.5 л цвет эбеновое дерево",
+			"price": "90"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/88482633.jpg",
+			"url": "https://leroymerlin.ru/product/maslo-dlya-terras-neomid-premium-cvet-oreh-2-l-88482633/",
+			"name": "Масло для террас Neomid Premium цвет орех 2 л",
+			"price": "2491"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/83376374.jpg",
+			"url": "https://leroymerlin.ru/product/ognebiozashchita-suhaya-neomid-ozs-21-i-i-ii-gruppa-5-kg-83376374/",
+			"name": "Огнебиозащита сухая Neomid ОЗС 21 I и II группа 5 кг",
+			"price": "1296"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/12754256.jpg",
+			"url": "https://leroymerlin.ru/product/propitka-vodnaya-ognebiozashchita-i-gruppy-neomid-10-kg-12754256/",
+			"name": "Пропитка водная огнебиозащита I группы Neomid 10 кг",
+			"price": "2088"
+		}
+	],
+	"Preparing_for_painting": [
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/18449480.jpg",
+			"url": "https://leroymerlin.ru/product/gruntovka-antikorroziynaya-oreol-titan-cvet-belyy-09-kg-18449480/",
+			"name": "Грунтовка антикоррозийная Ореол Титан цвет белый 0.9 кг",
+			"price": "495"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82277851.jpg",
+			"url": "https://leroymerlin.ru/product/propitka-jobi-stop-plesen-1-l-82277851/",
+			"name": "Пропитка Jobi «Стоп-Плесень» 1 л",
+			"price": "155"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/81950908.jpg",
+			"url": "https://leroymerlin.ru/product/shpatlevka-axton-dlya-dereva-09-kg-beloemaslo-81950908/",
+			"name": "Шпатлёвка Axton для дерева 0.9 кг белоеМасло",
+			"price": "178"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/81949819.jpg",
+			"url": "https://leroymerlin.ru/product/germetik-shpatlevka-dlya-dereva-shovnyy-mezhvencovyy-eurotex-exclusive-cvet-sosna-13-kg-81949819/",
+			"name": "Герметик-шпатлевка для дерева шовный межвенцовый Eurotex Exclusive цвет сосна 1.3 кг",
+			"price": "746"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/84575620.jpg",
+			"url": "https://leroymerlin.ru/product/gruntovka-universalnaya-jobi-akrilovaya-s-indikatorom-10-l-84575620/",
+			"name": "Грунтовка универсальная Jobi акриловая с индикатором 10 л",
+			"price": "1028"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/18560401.jpg",
+			"url": "https://leroymerlin.ru/product/gruntovka-po-derevu-antisepticheskaya-alkidnaya-bescvetnaya-2-l-18560401/",
+			"name": "Грунтовка по дереву антисептическая алкидная бесцветная 2 л",
+			"price": "727"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/81950518.jpg",
+			"url": "https://leroymerlin.ru/product/shpatlevka-elastichnaya-jobi-15-kg-81950518/",
+			"name": "Шпатлёвка эластичная Jobi 1.5 кг",
+			"price": "346"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/83000335.jpg",
+			"url": "https://leroymerlin.ru/product/shpaklevka-axton-dlya-suhih-i-vlazhnyh-pomeshcheniy-polimernaya-5-kg-83000335/",
+			"name": "Шпаклёвка Axton для сухих и влажных помещений полимерная 5 кг",
+			"price": "580"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/81946592.jpg",
+			"url": "https://leroymerlin.ru/product/gruntovka-kroyushchaya-axton-25-l-81946592/",
+			"name": "Грунтовка кроющая Axton 2.5 л",
+			"price": "438"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82184114.jpg",
+			"url": "https://leroymerlin.ru/product/shpatlevka-universalnaya-vlagostoykaya-vgt-akrilovaya-1-kg-82184114/",
+			"name": "Шпатлевка универсальная влагостойкая VGT акриловая 1 кг",
+			"price": "153"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/17564523.jpg",
+			"url": "https://leroymerlin.ru/product/sredstvo-dlya-udaleniya-pleseni-prosept-ekologichnoe-05-l-17564523/",
+			"name": "Средство для удаления плесени Prosept экологичное 0.5 л",
+			"price": "238"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/83000323.jpg",
+			"url": "https://leroymerlin.ru/product/shpatlevka-universalnaya-terraco-handycoat-all-purpose-15-kg-83000323/",
+			"name": "Шпатлёвка универсальная Terraco Handycoat All-Purpose 1.5 кг",
+			"price": "210"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82754653.jpg",
+			"url": "https://leroymerlin.ru/product/skipidar-yashim-05-l-82754653/",
+			"name": "Скипидар Ясхим 0.5 л",
+			"price": "95"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/81946591.jpg",
+			"url": "https://leroymerlin.ru/product/gruntovka-kroyushchaya-axton-1-l-81946591/",
+			"name": "Грунтовка кроющая Axton 1 л",
+			"price": "215"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/83000322.jpg",
+			"url": "https://leroymerlin.ru/product/zapolnitel-dlya-treshchin-terraco-handyflex-08-kg-83000322/",
+			"name": "Заполнитель для трещин Terraco Handyflex 0.8 кг",
+			"price": "425"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/81975582.jpg",
+			"url": "https://leroymerlin.ru/product/gruntovka-universalnaya-ceresit-ct7-10-l-81975582/",
+			"name": "Грунтовка универсальная Ceresit CT7 10 л",
+			"price": "1088"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/81960950.jpg",
+			"url": "https://leroymerlin.ru/product/shpatlevka-teks-2v1-4-kg-81960950/",
+			"name": "Шпатлёвка Текс 2в1 4 кг",
+			"price": "577"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/15609476.jpg",
+			"url": "https://leroymerlin.ru/product/kerosin-ts-1-5-l-15609476/",
+			"name": "Керосин ТС-1 5 л",
+			"price": "580"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/81949816.jpg",
+			"url": "https://leroymerlin.ru/product/germetik-shpatlevka-dlya-dereva-shovnyy-mezhvencovyy-eurotex-exclusive-cvet-belyy-13-kg-81949816/",
+			"name": "Герметик-шпатлевка для дерева шовный межвенцовый Eurotex Exclusive цвет белый 1.3 кг",
+			"price": "746"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/81960518.jpg",
+			"url": "https://leroymerlin.ru/product/gruntovka-fasadnaya-akrilovaya-axton-1-l-81960518/",
+			"name": "Грунтовка фасадная акриловая Axton 1 л",
+			"price": "193"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/18560410.jpg",
+			"url": "https://leroymerlin.ru/product/gruntovka-po-derevu-antisepticheskaya-alkidnaya-bescvetnaya-9-l-18560410/",
+			"name": "Грунтовка по дереву антисептическая алкидная бесцветная 9 л",
+			"price": "2768"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/81960516.jpg",
+			"url": "https://leroymerlin.ru/product/shpatlevka-finishnaya-axton-dlya-vlazhnyh-pomeshcheniy-5-kg-81960516/",
+			"name": "Шпатлёвка финишная Axton для влажных помещений 5 кг",
+			"price": "498"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/83000336.jpg",
+			"url": "https://leroymerlin.ru/product/shpaklevka-axton-dlya-suhih-i-vlazhnyh-pomeshcheniy-polimernaya-15-kg-83000336/",
+			"name": "Шпаклёвка Axton для сухих и влажных помещений полимерная 15 кг",
+			"price": "1290"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/81960519.jpg",
+			"url": "https://leroymerlin.ru/product/gruntovka-fasadnaya-akrilovaya-axton-25-l-81960519/",
+			"name": "Грунтовка фасадная акриловая Axton 2.5 л",
+			"price": "391"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/81950907.jpg",
+			"url": "https://leroymerlin.ru/product/shpatlevka-axton-dlya-dereva-09-kg-antik-81950907/",
+			"name": "Шпатлёвка Axton для дерева 0.9 кг антик",
+			"price": "178"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/81953866.jpg",
+			"url": "https://leroymerlin.ru/product/gruntovka-vlagoizolyator-jobi-1-l-81953866/",
+			"name": "Грунтовка влагоизолятор Jobi 1 л",
+			"price": "305"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/83625098.jpg",
+			"url": "https://leroymerlin.ru/product/shpaklevka-mebelnaya-so-shpatelem-molecules-55-g-cvet-venge-83625098/",
+			"name": "Шпаклёвка мебельная со шпателем Molecules 55 г цвет венге",
+			"price": "270"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/83000325.jpg",
+			"url": "https://leroymerlin.ru/product/shpatlevka-universalnaya-terraco-handycoat-all-purpose-15-kg-83000325/",
+			"name": "Шпатлёвка универсальная Terraco Handycoat All-Purpose 15 кг",
+			"price": "1238"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82891642.jpg",
+			"url": "https://leroymerlin.ru/product/gruntovka-glubokogo-proniknoveniya-maitre-deco-amorce-5-l-82891642/",
+			"name": "Грунтовка глубокого проникновения Maitre Deco «Amorce» 5 л",
+			"price": "830"
+		},
+		{
+			"image": "https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/18553800.jpg",
+			"url": "https://leroymerlin.ru/product/gruntovka-po-derevu-antisepticheskaya-valtti-primer-bescvetnaya-09-l-18553800/",
+			"name": "Грунтовка по дереву антисептическая Valtti Primer бесцветная 0.9 л",
+			"price": "883"
+		}
+	]
+}

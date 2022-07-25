@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Parser. Получение информации со страниц сайтов</title>
+        <link rel="icon" href="img/Tab_Icon(alt).jpeg" sizes="any" type="image/jpeg" />
+
+        <meta name="author" content="Kudryavtsev Nicolay">
+        <meta name="description" content="Задача: сделать парсинг сайта по ссылкам и прочим данным
+            из заданного объекта; Сохранить цену, URL товара и артикул.">
+
+        <meta property="og:image" content="/public/img/Parser.jpeg">
+        <meta property="og:description" content="Parser выполняет парсинг сайта по ссылкам и
+            прочим данным из заданного объекта; Сохранить цену, URL товара и артикул.">
+        <meta property="og:title" content="Parser. Получение информации со страниц сайтов">
+
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta http-equiv="content-type" content="text/html; charset=utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <link rel="stylesheet" href="./css/Styles.css"> <!-- Подключаем файл со стилями -->
+        
+        <script src="./js/jquery-3.6.0.min.js"></script>    <!-- Подключаем JQuery -->
+        <script src="./js/Script.js"></script>              <!-- Подключаем доп. файл с функциями -->
+    </head>
+
+    <body>
+        <header>
+            <div id="particles-js"></div>   <!-- Анимированный фон сайта -->
+
+            <!-- Поле заголовка сайта -->
+            <div>
+                <table class="container">
+                    <tr>
+                        <td class="logo_field" align="center">
+                            <svg width="120" height="60"
+                                xmlns="http://www.w3.org/2000/svg">      
+                                <image href="img/Parser.jpeg"
+                                height="60" width="120"/>
+                            </svg>
+                        </td>
+                        <td></td> <td></td><td></td> <td></td>
+                        <td class="title_text" align="center">Сбор и систематизация информации, размещенной на различных сайтах</td>
+                        <td></td> <td></td> <td></td> <td></td>
+                        <td align="center">
+                            <a class="about_button" href="#О_Сайте" style="width: 50px; height:50px;" title="О Сайте"> <font size="6"> <strong> ? </strong></font></a>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!-- Всплывающее Окно -->
+            <div id="О_Сайте" class="overlay">
+                <div class="popup">
+                    <h2>  &ensp;Для чего предназначен этот сайт?</h2>
+                    <a class="close" href="/">&times;</a>
+                    <div class="content">
+                        <br><font size="3">&ensp;Дан объект следующего формата: <font color="red">[URL, name, sheet]</font>, где...
+                        <ul>
+                            <li>URL&ensp;— ссылка на страницу каталога товаров;</li>
+                            <li>name&ensp;— название категории товара,</li>
+                            <li>sheet&ensp;— номер страницы.</ol></li>
+                        </ul>
+
+                        &ensp;📚<strong>Объект:</strong>
+                        <br>&ensp;[
+                            <br>&emsp;[<a href="https://leroymerlin.ru/catalogue/kraski-dlya-vnutrennih-rabot/" target="_blank">"https://leroymerlin.ru/catalogue/kraski-dlya-vnutrennih-rabot/"</a>, "Краски для внутренних работ", 1],
+                            <br>&emsp;[<a href="https://leroymerlin.ru/catalogue/emali/" target="_blank">"https://leroymerlin.ru/catalogue/emali/"</a>, "Эмали", 2],
+                            <br>&emsp;[<a href="https://leroymerlin.ru/catalogue/kraski-dlya-naruzhnyh-rabot/" target="_blank">"https://leroymerlin.ru/catalogue/kraski-dlya-naruzhnyh-rabot/"</a>, "Краски для наружных работ", 3],
+                            <br>&emsp;[<a href="https://leroymerlin.ru/catalogue/pokrytiya-dlya-dereva/" target="_blank">"https://leroymerlin.ru/catalogue/pokrytiya-dlya-dereva/"</a>, "Покрытия для дерева", 4],
+                            <br>&emsp;[<a href="https://leroymerlin.ru/catalogue/podgotovka-poverhnosti-k-pokraske-i-shtukaturke/" target="_blank">"https://leroymerlin.ru/catalogue/podgotovka-poverhnosti-k-pokraske-i-shtukaturke/"</a>, "Подготовка поверхности к покраске и штукатурке", 5],
+                        <br>&ensp;]
+                        <br><br>&ensp;<strong>Цели:</strong> 
+                        <ol>
+                            <li>Пройтись по всем страницам категорий.</li>
+                            <li>Сохранить цену, URL товара и артикул.</li>
+                        </ol> </font>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <!-- Поле с содержанием страницы и поле с кнопкой "Показать" -->
+        <div class="menu_field" >
+            <div class="menu"> <!-- Поле "Содержание" -->
+                <div class="menu_title"> <strong>Содержание</strong> </div>
+
+                <ol style="padding: auto;margin: 18px; font-size: larger;">
+                    <li> <a href="#Эмали">Эмали</a> </li>
+                    <li> <a href="#Краски_для_внутренних_работ">Краски для внутренних работ</a></li>
+                    <li> <a href="#Краски_для_наружных_работ">Краски для наружных работ</a></li>
+                    <li> <a href="#Покрытия_для_дерева">Покрытия для дерева</a></li>
+                    <li> <a href="#Подготовка_поверхности_к_покраске_и_штукатурке">Подготовка поверхности к покраске и штукатурке</a></li>
+                </ol>
+            </div>
+
+            <!-- Поле с Кнопкой -->
+            <div class="button_field">
+                <div class="button_text">
+                    <p>&emsp;<strong>Парсинг</strong> – это процесс сбора данных с последующей их обработкой и анализом. К этому способу прибегают, когда предстоит обработать большой массив информации, с которым сложно справиться вручную.
+                    Программа, которая производит сбор и синтаксический анализ, – это парсер (определение «Википедии»). С ее помощью можно упростить работу по поиску контента для собственного ресурса и проводить ее в сжатые сроки.</p>
+                    <p>&emsp;Чтобы загрузить данные, полученные в результате парсинга сайтов, нажмите на кнопку ниже "Показать"</p>
+                </div>
+
+                <button class="start" id="start" title="Начать сбор данных" onclick="myFunction()">Показать</button> 
+            </div>
+        </div>
+
+        <!-- Поле с полученными данными -->
+        <div class="data_window">
+            <div class="data_field">
+                <div class="data_header" align="middle"> <h3 id="Эмали">Эмали</h3> </div>
+                <div class="data_text_1">
+
+                        <!-- ПРИМЕР ПОЛЯ, В КОТОРОМ БУДЕТ ОТОБРАЖАТЬСЯ ТОВАР -->
+                        <!-- <div class="product_field">
+                            <div class="product_img">
+                                <a href="https://cssgrid-generator.netlify.app" target="_blank">
+                                    <svg width="100%" height="100%"
+                                        xmlns="http://www.w3.org/2000/svg">      
+                                        <image href="https://res.cloudinary.com/lmru/image/upload/dpr_2.0,f_auto,q_auto,w_240,h_240,c_pad,b_white,d_photoiscoming.png/LMCode/82174328.jpg"
+                                        width="100%" height="100%"/>
+                                    </svg>
+                                </a>     
+                            </div>
+                            <div class="product_name" style="font-size: larger; margin: 8px"> <a href="https://cssgrid-generator.netlify.app" target="_blank"> <strong> asdafafafs </strong> </a> </div>
+                            <p><div class="product_price" style="font-size: larger"> <strong> 123 ₽/шт. </strong> </div></p>
+                        </div> -->    
+                </div>
+            </div>
+
+            <div class="data_field">
+                <div class="data_header" align="middle"> <h3 id="Краски_для_внутренних_работ">Краски для внутренних работ</h3> </div>
+                <div class="data_text_2"> </div>
+            </div>
+
+            <div class="data_field">
+                <div class="data_header" align="middle"> <h3 id="Краски_для_наружных_работ">Краски для наружных работ</h3> </div>
+                <div class="data_text_3"> </div>
+            </div>
+
+            <div class="data_field">
+                <div class="data_header" align="middle"> <h3 id="Покрытия_для_дерева">Покрытия для дерева</h3> </div>
+                <div class="data_text_4"> </div>
+            </div>
+
+            <div class="data_field">
+                <div class="data_header" align="middle"> <h3 id="Подготовка_поверхности_к_покраске_и_штукатурке">Подготовка поверхности к покраске и штукатурке</h3> </div>
+                <div class="data_text_5"> </div>
+            </div>
+                
+            <!-- Кнопка "Наверх" -->
+            <a id="back2Top" title="Наверх" href="#">&#10148;</a>
+        </div>
+        
+    </body>
+</html>

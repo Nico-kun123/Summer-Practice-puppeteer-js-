@@ -1,0 +1,27 @@
+[
+      {
+         "url":"https://leroymerlin.ru/catalogue/emali/",
+         "name":"Эмали",
+         "sheet":"2"
+      },
+      {
+         "url":"https://leroymerlin.ru/catalogue/kraski-dlya-vnutrennih-rabot/",
+         "name":"Краски для внутренних работ",
+         "sheet":"1"
+      },
+      {
+         "url":"https://leroymerlin.ru/catalogue/kraski-dlya-naruzhnyh-rabot/",
+         "name":"Краски для наружных работ",
+         "sheet":"3"
+      },
+      {
+         "url":"https://leroymerlin.ru/catalogue/pokrytiya-dlya-dereva/",
+         "name":"Покрытия для дерева",
+         "sheet":"4"
+      },
+      {
+         "url":"https://leroymerlin.ru/catalogue/podgotovka-poverhnosti-k-pokraske-i-shtukaturke/",
+         "name":"Подготовка поверхности к покраске и штукатурке",
+         "sheet":"5"
+      }
+]
